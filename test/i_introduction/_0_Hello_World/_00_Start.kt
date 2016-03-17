@@ -5,6 +5,6 @@ import org.junit.Test
 
 class _00_Start {
     @Test fun testOk() {
-        assertEquals("OK", task0())
+        assertEquals("Hello World", task0())
     }
 }

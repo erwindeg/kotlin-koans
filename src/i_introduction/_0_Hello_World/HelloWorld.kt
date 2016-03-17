@@ -17,7 +17,7 @@ fun todoTask0(): Nothing = TODO(
 
         Using 'references' you can usually navigate and see the code mentioned in the task description.
 
-        To start please make the function 'task0' return "OK".
+        To start please make the function 'task0' return "Hello World".
     """,
     documentation = doc0(),
     references = { task0(); "OK" }
